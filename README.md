@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=760&lines=Oi%2C+eu+sou+a+Raissa+%F0%9F%8C%B8;Estudante+de+Engenharia+de+Software;Construindo+solucoes+com+codigo%2C+arquitetura+e+cuidado"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=760&lines=Oi%2C+eu+sou+a+Raissa+%F0%9F%8C%B8;Estudante+de+Engenharia+de+Software"
     alt="Typing SVG"
   />
 
