@@ -22,7 +22,6 @@
 
 Sou estudante de **Engenharia de Software** e gosto de criar sistemas que sejam organizados, funcionais e bem pensados desde a base. Tenho interesse por desenvolvimento full stack, arquitetura de software, testes e boas praticas de projeto.
 
-Atualmente venho trabalhando com uma aplicacao de onboarding digital, explorando backend, frontend, banco de dados, autenticacao, containers e organizacao de codigo para produtos reais.
 
 ```ts
 const raissa = {
@@ -61,13 +60,6 @@ const raissa = {
 - Interfaces limpas, responsivas e agradaveis de usar
 - Projetos com arquitetura compreensivel, testes automatizados e documentacao objetiva
 
-### Em desenvolvimento
-
-- Arquitetura de software e organizacao em camadas
-- Testes com `pytest` e validacao de comportamento de APIs
-- Modelagem de banco de dados e migrations com Alembic
-- Integracao entre frontend, backend e banco com Docker
-- Boas praticas de versionamento, documentacao e manutencao
 
 ### Estatisticas
 
@@ -87,5 +79,5 @@ const raissa = {
 ---
 
 <div align="center">
-  <sub>Feito com codigo, curiosidade e um pouquinho de delicadeza.</sub>
+  <sub>Feito com codigo, curiosidade e dedicação</sub>
 </div>
